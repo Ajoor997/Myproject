@@ -1,2 +1,2 @@
-# Myprojects
-This repository is for my project on coursera
+# My projects portfolio
+This repository is going to feature all my projects.
